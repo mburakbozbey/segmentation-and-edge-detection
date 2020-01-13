@@ -2,12 +2,38 @@
 
 Following algorithms were implemented under Bogazici University's EE475-Image Processing course on Berkeley Segmentation Dataset **[1]** and all other images are in courtesy of Bogazici University:
 
-1. K-means clustering with color features **[2]** and color + coordinate features
-2. Seeded region growing on two images **[3]**
-3. Edge detection on generated image with edge detector performance comparison **[4]**
-4. Hough line detection on generated image
+**1.** K-means clustering with color features **[2]** and color + coordinate features
 
-For complete results and work, please read [Homework Report](https://github.com/mburakbozbey/segmentation-and-edge-detection/blob/master/Report_MelikBurakBozbey.pdf).
+<p align="center">
+  <img src="https://i.ibb.co/TrFdSBm/1.jpg">
+</p>
+
+**2.** Seeded region growing on two images **[3]**
+
+<p align="center">
+  <img src="https://i.ibb.co/cTbhDmM/2.jpg">
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/8jM66mb/3.jpg">
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/7YsMQV9/Screenshot-5.png">
+</p>
+
+**3.** Edge detection on generated image with edge detector performance comparison **[4]**
+
+<p align="center">
+  <img src="https://i.ibb.co/3pL1Vhv/Screenshot-6.png">
+</p>
+
+**4.** Hough line detection on generated image
+
+<p align="center">
+  <img src="https://i.ibb.co/XXCkzNT/Screenshot-8.png">
+</p>
+
+
+For complete results and work, please find [Homework Report](https://github.com/mburakbozbey/segmentation-and-edge-detection/blob/master/Report_MelikBurakBozbey.pdf).
 
 ## References
 
