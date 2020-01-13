@@ -7,7 +7,7 @@ Following algorithms were implemented under Bogazici University's EE475-Image Pr
 3. Edge detection on generated image with edge detector performance comparison **[4]**
 4. Hough line detection on generated image
 
-For complete results, refer to [Homework Report](https://github.com/mburakbozbey/segmentation-and-edge-detection/blob/master/Report_MelikBurakBozbey.pdf).
+For complete results and work, please read [Homework Report](https://github.com/mburakbozbey/segmentation-and-edge-detection/blob/master/Report_MelikBurakBozbey.pdf).
 
 ## References
 
