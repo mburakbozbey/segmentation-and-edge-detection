@@ -1,12 +1,11 @@
 # Segmentation and edge detection examples
 
-Following algorithms were implemented under Bogazici University's EE475-Image Processing course on Berkeley Segmentation Dataset **[1]**:
+Following algorithms were implemented under Bogazici University's EE475-Image Processing course on Berkeley Segmentation Dataset **[1]** and all other images are in courtesy of Bogazici University:
 
 1. K-means clustering with color features **[2]** and color + coordinate features
 2. Seeded region growing on two images **[3]**
 3. Edge detection on generated image with edge detector performance comparison **[4]**
 4. Hough line detection on generated image
-
 
 
 ## References
